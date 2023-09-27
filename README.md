@@ -1,4 +1,4 @@
-### Output-Based JavaScript Questions and Answers
+# 📤 Output-Based JavaScript Questions ❓ and Answers ✔
 
 **1. What will be the output of the following code?**
 
